@@ -9,4 +9,8 @@
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "ms-python.python",
     "files.autoSave": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.REPL.enableREPLSmartSend": false,
 }
