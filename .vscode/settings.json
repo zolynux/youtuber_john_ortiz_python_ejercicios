@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Catppuccin Mocha",
-  "editor.fontFamily": "JetBrains Mono",
+  // "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "code-runner.runInTerminal": true,
   "code-runner.saveFileBeforeRun": true,
