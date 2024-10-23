@@ -1,16 +1,22 @@
 {
-    "code-runner.runInTerminal": true,
-    "editor.bracketPairColorization.enabled": true,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.guides.bracketPairs": true,
-    "editor.guides.bracketPairsHorizontal": true,
-    "editor.fontSize": 15,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "off",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "editor.defaultFormatter": "ms-python.python",
-    "files.autoSave": "off",
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
-    },
-    "python.REPL.enableREPLSmartSend": false,
+    "editor.formatOnPaste": true
+  },
+  "python.REPL.enableREPLSmartSend": false
 }
