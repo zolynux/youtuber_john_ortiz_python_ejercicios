@@ -1,6 +1,7 @@
 {
-  "workbench.colorTheme": "Catppuccin Mocha",
-  // "editor.fontFamily": "JetBrains Mono",
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "code-runner.runInTerminal": true,
   "code-runner.saveFileBeforeRun": true,
@@ -8,7 +9,7 @@
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 17,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -18,5 +19,7 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
   },
-  "python.REPL.enableREPLSmartSend": false
+  "python.REPL.enableREPLSmartSend": false,
+  "cSpell.language": "en,es-ES",
+  "cSpell.words": ["kilospascales", "Kilospascales"]
 }
