@@ -1,14 +1,16 @@
-# Ejercicio 8: Obtener el primer y último de una lista
+# Ejercicio 8: Obtener el primer y último elemento de una lista
 
+# Se define una lista de lenguajes de programación
 lenguajes = ["Python", "C#", "PHP", "Java", "JavaScript"]
 
-# Primer elemento: Python
-# Último elemento: JavaScript
-
+# Se obtiene el primer elemento de la lista
 primer_elemento = lenguajes[0]
 
-# ultimo_elemento = lenguajes[len(lenguajes) - 1]
+# Se obtiene el último elemento de la lista utilizando el índice negativo
 ultimo_elemento = lenguajes[-1]
 
+# Imprime el primer elemento de la lista
 print(primer_elemento)
+
+# Imprime el último elemento de la lista
 print(ultimo_elemento)

@@ -1,0 +1,1 @@
+Necesito que me ayudes a entender los códigos solo con comentarios en líneas anteriores a la sintaxis de Python, sin comentarios en la misma línea:
